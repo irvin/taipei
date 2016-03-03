@@ -1,13 +1,9 @@
 # Welcome to Taipei! :wave: :wink:
 
-This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriends) from overseas put together by [everyone](https://github.com/JuanitoFatas/taipei/graphs/contributors).
-
-> If you ever go to ‪Taiwan‬, check out [this amazing site](http://www.rtaiwanr.com/) for trips in the country. <br>
-> -- Nico Hagenburger [@hagenburger](https://twitter.com/Hagenburger)
+This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) from overseas put together by [everyone](https://github.com/g0v/taipei/graphs/contributors).
 
 ## Table of Contents
 
-- [Ruby Meetups](#ruby-meetups)
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
 - [Free WiFi](#free-wifi)
@@ -25,10 +21,6 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Souvenirs](#souvenirs)
 - [License](#license)
 - [Credits](#credits)
-
-## Ruby Meetups
-
-:point_right: <https://github.com/rubytaiwan/rubytw-reboot/wiki/Meetups>
 
 ## Data SIM Card
 
@@ -242,4 +234,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 # Credits
 
-This guide is inspired by [Ruby Singapore community](http://ruby.sg), check out [their handbook](https://github.com/rubysg/singapore) if you visit Singapore.
+This guide is forked from the [Ruby Taiwan Community](https://github.com/rubytaiwan/taipei), which was inspired by [Ruby Singapore community](http://ruby.sg), check out [their handbook](https://github.com/rubysg/singapore) if you visit Singapore.
