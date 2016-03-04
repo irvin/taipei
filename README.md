@@ -59,6 +59,20 @@ Chinese & English, most of people will help you anyway.
 
 **Uber** is also available in Taipei.
 
+### Taxi
+
+You can flag down a taxi from the street. Starts at NT$70-90, but in some tourist sites, the price will be a little bit higher.
+
+### MRT and Buses
+
+Google Maps is your good friend.
+
+The public transport system runs on a reloadable contactless card called EasyCard. There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
+
+EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
+
+**No eating or drinking is allowed inside the station or on the train.**
+
 ## Sight Seeing
 
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
@@ -134,19 +148,6 @@ Anime & Manga
 
 More information: [The 25 Top Taipei, Taiwan Things To Do: What to Do Today, This Weekend or in September](http://www.virtualtourist.com/travel/Asia/Taiwan/Taipei_Shih/Taipei-1074413/Things_To_Do-Taipei-TG-C-1.html).
 
-### Taxi
-
-You can flag down a taxi from the street. Starts at NT$70-90, but in some tourist sites, the price will be a little bit higher.
-
-### MRT and Buses
-
-Google Maps is your good friend.
-
-The public transport system runs on a reloadable contactless card called EasyCard. There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
-
-EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
-
-**No eating or drinking is allowed inside the station or on the train.**
 
 ## Food
 
