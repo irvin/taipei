@@ -4,6 +4,7 @@ This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) 
 
 ## Table of Contents
 
+- [Visa](#visa)
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
 - [Free WiFi](#free-wifi)
@@ -21,6 +22,38 @@ This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) 
 - [Souvenirs](#souvenirs)
 - [License](#license)
 - [Credits](#credits)
+
+## Visa
+
+This information applies for short-stay visitors only.
+
+### Visa Exemption & Visa on arrival
+
+[Passports eligible for Visa Exemption](http://www.boca.gov.tw/ct.asp?xItem=1443&ctNode=779&mp=2)
+
+[Passports eligible for Visa on arrival](http://www.boca.gov.tw/ct.asp?xItem=1446&ctNode=779&mp=2)
+
+### Passports of India, Indonesia, Vietnam, the Philippines and Thailand
+
+If you have valid visa for any of the following countries: US, Canada, Japan, UK, Schengen countries, Australia, New Zealand, use the [fast track visa application](https://www.boca.gov.tw/content?mp=1&CuItem=6412)
+
+Otherwise follow the procedeures below for "All other passports".
+
+### Chinese Passports
+
+1. If you live in China
+
+  1. If you are eligible for 自由行, go for that.
+  2. Otherwise: ask if the conference organizer can send formal business visa invitation.  Please allow 2 months lead time.
+
+2. If you live in Hong Kong or other countries, and have residence permit
+
+  You are generally eligible for the "Type 3 Chinese Visitor" category.  Follow the procedeures below for "All other passports".  Please allow 3 weeks lead time.
+
+### All other passports
+
+
+See [here](https://www.boca.gov.tw/np.asp?ctNode=776&mp=2)
 
 ## Data SIM Card
 
