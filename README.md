@@ -35,7 +35,7 @@ This information applies for short-stay visitors only.
 
 ### Passports of India, Indonesia, Vietnam, the Philippines and Thailand
 
-If you have valid visa for any of the following countries: US, Canada, Japan, UK, Schengen countries, Australia, New Zealand, use the [fast track visa application](https://www.boca.gov.tw/content?mp=1&CuItem=6412)
+If you have valid visa for any of the following countries: US, Canada, Japan, UK, Schengen countries, Australia, New Zealand, use the [fast track visa application](http://www.boca.gov.tw/ct.asp?xItem=6464&ctNode=868&mp=2)
 
 Otherwise follow the procedeures below for "All other passports".
 
