@@ -52,8 +52,11 @@ Otherwise follow the procedeures below for "All other passports".
 
 ### All other passports
 
-
 See [here](https://www.boca.gov.tw/np.asp?ctNode=776&mp=2)
+
+### Arrivial
+
+Facial and fingerprint registartion is required for all foriegn passport holders.  The only exception is to be invited by a institution and the host has to apply for your fingerprinting exemption by proving your exceptional academic or professional achievement, according to "執行外來人口入出國（境）辨識個人生物特徵作業要點" 三(三）依國際機場禮遇作業辦法申請國賓禮遇、特別禮遇及一般禮遇 with this [form](https://www.immigration.gov.tw/public/Attachment/551315351157.pdf).  Please allow two-week lead time.
 
 ## Data SIM Card
 
