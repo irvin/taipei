@@ -2,8 +2,10 @@
 
 ## GIS National Taiwan University (集思台大會議中心)
 
-**Address:** B1F., No.85, Sec. 4, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)
-**Telephone:** +886-2-2363-5868
+**Address:** B1F., No.85, Sec. 4, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)  
+**Telephone:** +886-2-2363-5868  
+**Website:** http://www.meeting.com.tw/index.php/venue-en/gis-ntu-convention-center  
+
 ## TPE Airport to GIS NTU Convention Center
 
 ### 1. By HSR(high-speed rail)
@@ -34,4 +36,12 @@ Trip Duration : 45~60 mins
 Charge : The set charge between Taipei and TPE is around TW$1,200. It takes approximately 45 minute. Please note that most taxis do not accept credit cards.  
 
 
+## TSA Airport to GIS NTU Convention Center
 
+###  1. By MRT
+Take the Green Line to Gongguan Station (12 stops). Exit at the Gongguan Station Exit 2 and turn left. Walk along Roosevelt Road for 2 minutes then you will find GIS BTU Convention Center on your left hand side.
+
+For Taipei MRT information, please click [here](http://english.metro.taipei/).
+
+### 2. By Taxi
+Take a taxi for about 20 minutes. Around $200NT dollars.
