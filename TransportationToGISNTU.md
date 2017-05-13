@@ -3,7 +3,7 @@
 ## GIS National Taiwan University (集思台大會議中心)
 
 **Address:** B1F., No.85, Sec. 4, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)
-
+**Telephone:** +886-2-2363-5868
 ## TPE Airport to GIS NTU Convention Center
 
 ### 1. By HSR(high-speed rail)
