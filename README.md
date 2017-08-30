@@ -123,6 +123,10 @@ EasyCard credits are refundable (with some fees) so if you still have some credi
 
 ## Sight Seeing
 
+Check [Taipei#Tourism on Wikipedia](https://en.wikipedia.org/wiki/Taipei#Tourism) for more detailed venues info. 
+
+### Top places
+
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
 
   ![Taipei 101](https://farm3.staticflickr.com/2839/11467975375_b5285ed9ab_z.jpg)
@@ -134,9 +138,6 @@ EasyCard credits are refundable (with some fees) so if you still have some credi
 
   ![National Palace Museum](https://farm3.staticflickr.com/2682/4084776487_d98a00d75b_z.jpg)
   <sub>Credit: <a href="https://flic.kr/p/7dXxJP" target="_blank">Leon Brocard</a>
-
-- [Taipei Zoo]( http://english.zoo.gov.taipei/)
-
 
 ### Mountain Hiking
 
